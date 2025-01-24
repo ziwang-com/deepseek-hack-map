@@ -2,8 +2,7 @@
 
 Applicable to: deepseek-r1
 
-Deepseek-v3 is currently the only open-source model that can rival GPT-4O,
-* Refer to:
+Deepseek-v3 is currently the only open-source model that can rival GPT-4O, Refer to:
 * https://github.com/deepseek-ai/DeepSeek-V3
 * https://github.com/deepseek-ai/DeepSeek-R1
 
@@ -27,8 +26,7 @@ Based on the logical structure diagram of the DeepSeeker V3 core module, various
 
 适用于： deepseek-r1
 
-deepseek-v3是目前唯一能够媲美gpt-4o的开源大模型，
-* 参见： 
+deepseek-v3是目前唯一能够媲美gpt-4o的开源大模型，参见： 
 * https://github.com/deepseek-ai/DeepSeek-V3
 * https://github.com/deepseek-ai/DeepSeek-R1
 
