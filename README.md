@@ -3,9 +3,9 @@
 Applicable to: deepseek-r1
 
 Deepseek-v3 is currently the only open-source model that can rival GPT-4O,
-Refer to:
-https://github.com/deepseek-ai/DeepSeek-V3
-https://github.com/deepseek-ai/DeepSeek-R1
+* Refer to:
+* https://github.com/deepseek-ai/DeepSeek-V3
+* https://github.com/deepseek-ai/DeepSeek-R1
 
 ### The ZWAI team successfully cracked the logical structure of the DeepSeek-V3 core module library through AI reverse engineering, and carefully crafted the relevant structural diagrams.
 ### There is an old Chinese saying: A thousand words are not as good as a picture.
@@ -28,9 +28,9 @@ Based on the logical structure diagram of the DeepSeeker V3 core module, various
 适用于： deepseek-r1
 
 deepseek-v3是目前唯一能够媲美gpt-4o的开源大模型，
-参见： 
-https://github.com/deepseek-ai/DeepSeek-V3
-https://github.com/deepseek-ai/DeepSeek-R1
+* 参见： 
+* https://github.com/deepseek-ai/DeepSeek-V3
+* https://github.com/deepseek-ai/DeepSeek-R1
 
 ### zwai团队，通过AI逆向工程，成功破解了DeepSeek-V3核心模块库的逻辑结构，并精心制作了相关的结构图。
 ### 中国有句老话：千言万语不如一张图。
