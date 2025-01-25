@@ -1,10 +1,10 @@
 # deepseek-v3-hack-map
 
 Applicable to: deepseek-r1
-ps：
+## ps：
 *  comfyui-deepseek-r1 节点插件.Comfyui-deepseek-r1 Node Plugin
 *  https://github.com/ziwang-com/comfyui-deepseek-r1
-
+# 
 Deepseek-v3 is currently the only open-source model that can rival GPT-4O, Refer to:
 * https://github.com/deepseek-ai/DeepSeek-V3
 * https://github.com/deepseek-ai/DeepSeek-R1
